@@ -1,0 +1,40 @@
+Training and validating model
+------------------------- Epoch 1 -------------------------
+Training loss: 0.7350
+Validation loss: 0.4675
+
+------------------------- Epoch 2 -------------------------
+Training loss: 0.4769
+Validation loss: 0.4173
+
+------------------------- Epoch 3 -------------------------
+Training loss: 0.4340
+Validation loss: 0.3943
+
+------------------------- Epoch 4 -------------------------
+Training loss: 0.4113
+Validation loss: 0.3709
+
+------------------------- Epoch 5 -------------------------
+Training loss: 0.3902
+Validation loss: 0.3455
+
+------------------------- Epoch 6 -------------------------
+Training loss: 0.3703
+Validation loss: 0.3232
+
+------------------------- Epoch 7 -------------------------
+Training loss: 0.3546
+Validation loss: 0.3036
+
+------------------------- Epoch 8 -------------------------
+Training loss: 0.3420
+Validation loss: 0.2877
+
+------------------------- Epoch 9 -------------------------
+Training loss: 0.3284
+Validation loss: 0.2811
+
+------------------------- Epoch 10 -------------------------
+Training loss: 0.3114
+Validation loss: 0.2771
